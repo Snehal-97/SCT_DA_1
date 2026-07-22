@@ -8,7 +8,7 @@ Using retail transaction data (`train.csv`), the dataset was cleaned, structured
 ---
 
 ## 🖼️ Dashboard Preview
-![Superstore Sales Dashboard](Screenshot%202026-07-22%20134854.png)
+![Superstore Sales Dashboard](Screenshot%202026-07-22%20141732.png)
 
 ---
 
